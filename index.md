@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: index
 title: HackNorthwestern
 tagline: fostering student creativity, entrepreneurship, and hacker spirit
+comments: false
+tags: false
+archive: false
 ---
 
 ## Upcoming Events

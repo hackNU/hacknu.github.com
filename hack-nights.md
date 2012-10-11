@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: index
 title: "Hack Nights"
 header: "Hack Nights"
 group: navigation
+comments: false
 ---
 
 ## What is a Hack Night?

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: index
 title: About
 group: navigation
+comments: false
 ---
 
 
