@@ -33,7 +33,7 @@ imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored
 
 We want this hackathon to be fun while allowing students to show off their skills - and get rewarded for their talents.
 
-Coders will have have 24 hours to build an app for the chance to win big prizes and get a leg up in imo’s recruiting process. And of course, it wouldn't be an event without free food and swag.
+Coders will have have 22 hours to build an app for the chance to win big prizes and get a leg up in imo’s recruiting process. And of course, it wouldn't be an event without free food and swag.
 
 This is Hack NU’s first hackathon and yet another one in Northwestern’s tradition of excellent hackathons, and we’re excited to have you show your innovation and creativity in a real-world situation with tangible, real-world results.
 
@@ -189,11 +189,17 @@ Hack Northwestern is a student initiative built from the ground up to foster stu
 
 <br>
 
-<div class="fb-btn"  style="heigh:60px;">
-<div class="fb-like" data-href="https://www.facebook.com/imo.im" data-send="true" data-layout="button_count" data-width="200" data-show-faces="false">
-</div>
+<div class="span8" style="heigh:80px;">
+  <div class="tw-btn" style="width:250px;float:left;">
+    <a href="https://twitter.com/imoim" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @imoim</a>
+  </div>
+  <div class="fb-btn"  style="heigh:60px;width:250px;float:left">
+  <div class="fb-like" data-href="https://www.facebook.com/imo.im" data-send="true" data-layout="button_count" data-width="200" data-show-faces="false">
+  </div>
+  </div>
 </div>
 
+<br>
 <br>
 
 When brothers Ralph and Georges Harik began using what would come to be known as [imo.im](http://imo.im), they had one goal - to make it easier to keep in touch with each other and their transcontinental family. They quickly realized how important communication is in our day-to-day activities, and decided to turn imo.im into what you see today - an instant messaging platform with more than 700,000 daily unique users who send more than 50 million messages per day. The mobile apps have had more than 5 million mobile downloads and 7 million unique users - and we’re not slowing down any time soon.
