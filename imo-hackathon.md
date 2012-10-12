@@ -43,9 +43,9 @@ Please email [hackathon@imo.im](mailto:hackathon@imo.im) with any questions.
 
 You gave us your prize suggestions, and we listened.
 
-1. First Place: $1,000 gift card for the team
-2. Second Place: $600 gift card for the team
-3. Third Place: $200 gift card for the team
+1. First Place: **$1,000 Amazon gift card** for the team
+2. Second Place: **$600 Amazon gift card** for the team
+3. Third Place: **$200 Amazon gift card** for the team
 
 Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
@@ -147,7 +147,7 @@ The point of this hackathon is to have fun while building new and cool collabora
 4.  Your creation must exhibit the slightest functionality of its intended behavior.
 
 
-5.  You may work in groups or individually. The number of members in your group will be taken into account when judging. Teams are limited to two people.
+5.  You may work in groups or individually. Teams are limited to two people.
 
 
 We encourage you to [try imo on the Web](https://imo.im), and on your mobile device ([iPhone](http://itunes.apple.com/us/app/imo/id336435697?mt=8&ign-mpt=uo%3D6)/[iPad](http://itunes.apple.com/us/app/imo-instant-messenger-for/id405179691), [Android](https://play.google.com/store/apps/details?id=com.imo.android.imoim)) to familiarize yourself with the product before the event.
