@@ -115,7 +115,7 @@ Nikola recently graduated with a BS from Northwestern University in Computer Sci
 
 The point of this hackathon is to have fun while building new and cool collaborative tools. Please conduct yourself in alignment with these values and with fairness in mind.
 
-**If you are looking for a teammate, please post on the [Facebook event page]()**
+**If you are looking for a teammate, please post on the [Facebook event page](https://www.facebook.com/events/196738343793855/)**
 
 ## Requirements
 
