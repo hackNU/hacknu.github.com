@@ -31,11 +31,13 @@ This event is specifically for students. We will check student IDs at the door.
 
 **If you are attending the event and would like to send your resume in before or after the event, please email jobs@imo.im with the subject line JOB ID: 012.**
 
+Please email [hackathon@imo.im](mailto:hackathon@imo.im) with any questions.
+
 ---
 
 # Prizes
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 You gave us your prize suggestions, and we listened.
 
@@ -49,7 +51,7 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
 # Schedule
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 **Subject to change**
 
@@ -77,7 +79,7 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
 # Judging Criteria
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 Projects will be judged on creativity and execution, the latter of which will have a higher weight. Execution is divided into three parts: stability, usability, functionality. Keep in might that contestants are building their projects within a short time frame so stability and usability should not be given much weight. It’s more important that a project is functional and does what it’s supposed to do.
 
@@ -94,22 +96,24 @@ Projects will be judged on creativity and execution, the latter of which will ha
 
 # Judges
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 ## Nikola Borisov ‘10, imo Engineer
 
+<img src="/assets/themes/twitter-2.0/img/NikolaBorisov.jpg" style="margin:10px;margin-left:0px;display:block;" />
+
 Nikola recently graduated with a BS from Northwestern University in Computer Science, and has liked programming since middle school. He is from Sofia, Bulgaria, and likes to watch Formula 1, WRC and other motor sports. Nikola also enjoys playing volleyball, soccer, some computer games and card games. He likes participating in programming and other science and robotics competitions.
 
-
-Please email hackathon@imo.im with any questions.
 
 ---
 
 # Rules
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 The point of this hackathon is to have fun while building new and cool collaborative tools. Please conduct yourself in alignment with these values and with fairness in mind.
+
+**If you are looking for a teammate, please post on the [Facebook event page]()**
 
 - Coders will need to bring their own computers for this event.
 
@@ -117,7 +121,7 @@ The point of this hackathon is to have fun while building new and cool collabora
 - If hackers want the option of receiving remote help during the hackathon, please create an imo account and email hackathon@imo.im with your username. You will be added to a group chat which you can IM before and during the event with questions.
 
 
-1.  You will have 22 hours to build whatever you want as long as you use imo’s api.
+1.  You will have 22 hours to build a collaborative app; you must use [imo's API](https://imo.im/developers/).
 
 
 2.  You may not come in with prior work.
@@ -141,7 +145,7 @@ We encourage you to [try imo on the Web](https://imo.im), and on your mobile dev
 
 # About HackNorthwestern
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 <br>
 
@@ -155,7 +159,7 @@ Hack Northwestern is a student initiative built from the ground up to foster stu
 
 # About the sponsor
 
-<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 <a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:left; margin: 10px; margin-left:0;" /></a>
 
