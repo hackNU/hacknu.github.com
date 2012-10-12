@@ -115,11 +115,14 @@ The point of this hackathon is to have fun while building new and cool collabora
 
 **If you are looking for a teammate, please post on the [Facebook event page]()**
 
+## Requirements
+
 - Coders will need to bring their own computers for this event.
 
+- Please create an imo account using your university domain and email [hackathon@imo.im](mailto:hackathon@imo.im) with your username. You will be added to a group chat which you can IM before and during the event with questions. We will also use this at times to communicate with you during the event.
 
-- If hackers want the option of receiving remote help during the hackathon, please create an imo account and email hackathon@imo.im with your username. You will be added to a group chat which you can IM before and during the event with questions.
 
+## Guidelines
 
 1.  You will have 22 hours to build a collaborative app; you must use [imo's API](https://imo.im/developers/).
 
