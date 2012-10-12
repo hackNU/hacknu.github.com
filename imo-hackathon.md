@@ -31,6 +31,8 @@ This event is open to all university students, not just Northwestern students. J
 
 **If you are attending the event and would like to send your resume in before or after the event, please email jobs@imo.im with the subject line JOB ID: 012.**
 
+Check out the [rules section](#rules) for more details.
+
 Please email [hackathon@imo.im](mailto:hackathon@imo.im) with any questions.
 
 ---
@@ -119,8 +121,17 @@ The point of this hackathon is to have fun while building new and cool collabora
 
 - Coders will need to bring their own computers for this event.
 
-- Please create an imo account using your university domain and email [hackathon@imo.im](mailto:hackathon@imo.im) with your username. You will be added to a group chat which you can IM before and during the event with questions. We will also use this at times to communicate with you during the event.
+- You will need a valid university email address.
 
+## Before The Event
+
+1. Please create an imo Network account on [imo.im](http://imo.im).
+
+2. Then email [hackathon@imo.im](mailto:hackathon@imo.im) with your username. You will be added to a group chat which you can IM before and during the event with questions.
+
+3. Once your account has been created, please [Edit your Public Profile](http://blog.imo.im/2012/08/feature-of-week-imo-network-public.html) and add your university email address in the “Email Domains” text field. You will receive an email asking you to verify your domain.
+
+<img src="/assets/themes/twitter-2.0/img/VerifyEmailDomain.png" alt="" style="display:block; margin: 10px; height: 300px;"/>
 
 ## Guidelines
 
