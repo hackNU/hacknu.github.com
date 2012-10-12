@@ -27,7 +27,7 @@ Coders will have have 24 hours to build an app for the chance to win big prizes 
 
 This is Hack NU’s first hackathon and yet another one in Northwestern’s tradition of excellent hackathons, and we’re excited to have you show your innovation and creativity in a real-world situation with tangible, real-world results.
 
-This event is specifically for students. We will check student IDs at the door.
+This event is open to all university students, not just Northwestern students. Just remember your university email address!
 
 **If you are attending the event and would like to send your resume in before or after the event, please email jobs@imo.im with the subject line JOB ID: 012.**
 
