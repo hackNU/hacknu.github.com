@@ -1,10 +1,12 @@
 ---
 layout: imo-hackathon
-title: "imo Hackathon"
+title: "imo Hackathon@Northwestern"
 header: "imo Hackathon"
 group: navigation
 comments: true
 ---
+
+<a href="http://www.eventbrite.com/event/4507728738?ref=ebtnebregn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=4507728738" alt="Eventbrite - imo Hackathon@Northwestern" /></a>
 
 
 # About the Hackathon
