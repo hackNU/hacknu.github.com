@@ -6,18 +6,28 @@ group: navigation
 comments: true
 ---
 
+
+
+
+
+<div class="span2">
+<a href="http://www.eventbrite.com/event/4507728738?ref=ebtnebregn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=4507728738" alt="Eventbrite - imo Hackathon@Northwestern" /></a>
+</div>
+<div class="span3">
+<a class="btn btn-primary btn-large" href="https://www.facebook.com/events/196738343793855" style="margin:0;display:block;">Facebook Event Page</a>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<h1 style="display:block;margin-top:20px;" id="about_the_hackathon">About the Hackathon</h1>
+
+<br>
+
 <a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:right; margin: 5px;" /></a>
 
-
-
-<a href="http://www.eventbrite.com/event/4507728738?ref=ebtnebregn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=4507728738" alt="Eventbrite - imo Hackathon@Northwestern" /></a>
-
-<br>
-<br>
-
-# About the Hackathon
-
-<br>
 
 imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by [imo.im](http://imo.im), a quickly growing Silicon Valley start-up co-founded by one of the first 10 employees at Google. The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
 
@@ -115,7 +125,7 @@ Nikola recently graduated with a BS from Northwestern University in Computer Sci
 
 The point of this hackathon is to have fun while building new and cool collaborative tools. Please conduct yourself in alignment with these values and with fairness in mind.
 
-**If you are looking for a teammate, please post on the [Facebook event page](https://www.facebook.com/events/196738343793855/)**
+**If you are looking for a teammate, please post on the [Facebook event page](https://www.facebook.com/events/196738343793855/).**
 
 ## Requirements
 
@@ -175,7 +185,16 @@ Hack Northwestern is a student initiative built from the ground up to foster stu
 
 <p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
-<a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:left; margin: 10px; margin-left:0;" /></a>
+<a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; margin: 10px; margin-left:0; clear:none;" /></a>
+
+<br>
+
+<div class="fb-btn"  style="heigh:60px;">
+<div class="fb-like" data-href="https://www.facebook.com/imo.im" data-send="true" data-layout="button_count" data-width="200" data-show-faces="false">
+</div>
+</div>
+
+<br>
 
 When brothers Ralph and Georges Harik began using what would come to be known as [imo.im](http://imo.im), they had one goal - to make it easier to keep in touch with each other and their transcontinental family. They quickly realized how important communication is in our day-to-day activities, and decided to turn imo.im into what you see today - an instant messaging platform with more than 700,000 daily unique users who send more than 50 million messages per day. The mobile apps have had more than 5 million mobile downloads and 7 million unique users - and we’re not slowing down any time soon.
 
