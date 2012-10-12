@@ -6,28 +6,36 @@ group: navigation
 comments: true
 ---
 
+<a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:right; margin: 5px;" /></a>
+
+
+
 <a href="http://www.eventbrite.com/event/4507728738?ref=ebtnebregn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=4507728738" alt="Eventbrite - imo Hackathon@Northwestern" /></a>
 
+<br>
+<br>
 
 # About the Hackathon
 
 <br>
 
-imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by imo.im, a quickly growing Silicon Valley start-up co-founded by one of the first 10 employees at Google. The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
+imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by [imo.im](http://imo.im), a quickly growing Silicon Valley start-up co-founded by one of the first 10 employees at Google. The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
 
 We want this hackathon to be fun while allowing students to show off their skills - and get rewarded for their talents.
 
 Coders will have have 24 hours to build an app for the chance to win big prizes and get a leg up in imo’s recruiting process. And of course, it wouldn't be an event without free food and swag.
 
-This is Hack NU’s first hackathon and one of Northwestern’s first, and we’re excited to have you show your innovation and creativity in a real-world situation with tangible, real-world results.
+This is Hack NU’s first hackathon and yet another one in Northwestern’s tradition of excellent hackathons, and we’re excited to have you show your innovation and creativity in a real-world situation with tangible, real-world results.
 
 This event is specifically for students. We will check student IDs at the door.
+
+**If you are attending the event and would like to send your resume in before or after the event, please email jobs@imo.im with the subject line JOB ID: 012.**
 
 ---
 
 # Prizes
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 You gave us your prize suggestions, and we listened.
 
@@ -41,7 +49,7 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
 # Schedule
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 **Subject to change**
 
@@ -69,25 +77,24 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
 # Judging Criteria
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 Projects will be judged on creativity and execution, the latter of which will have a higher weight. Execution is divided into three parts: stability, usability, functionality. Keep in might that contestants are building their projects within a short time frame so stability and usability should not be given much weight. It’s more important that a project is functional and does what it’s supposed to do.
 
 
-Breakdown:
-Creativity - 25%
-Execution -         Functionality - 50%
-Usability - 15%
-Stability - 10%
+## Breakdown
 
+- Creativity - 25%
+- Functionality - 50%
+- Usability - 15%
+- Stability - 10%
 
-If you are attending the event and would like to send your resume in before or after the event, please email jobs@imo.im with the subject line JOB ID: 012.
 
 ---
 
 # Judges
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 ## Nikola Borisov ‘10, imo Engineer
 
@@ -100,7 +107,7 @@ Please email hackathon@imo.im with any questions.
 
 # Rules
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
 
 The point of this hackathon is to have fun while building new and cool collaborative tools. Please conduct yourself in alignment with these values and with fairness in mind.
 
@@ -134,6 +141,12 @@ We encourage you to [try imo on the Web](https://imo.im), and on your mobile dev
 
 # About HackNorthwestern
 
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+
+<br>
+
+<img src="/assets/themes/twitter-2.0/img/hacknorthwestern_logo.png" />
+
 <br>
 
 Hack Northwestern is a student initiative built from the ground up to foster student creativity, entrepreneurship and hacker spirit! We are part of the student group, [CATS](http://nucats.org), and are officially recognized by Northwestern’s McCormick School of Engineering.
@@ -142,7 +155,9 @@ Hack Northwestern is a student initiative built from the ground up to foster stu
 
 # About the sponsor
 
-<br>
+<p style="color:#dedede;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+
+<a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:left; margin: 10px; margin-left:0;" /></a>
 
 When brothers Ralph and Georges Harik began using what would come to be known as [imo.im](http://imo.im), they had one goal - to make it easier to keep in touch with each other and their transcontinental family. They quickly realized how important communication is in our day-to-day activities, and decided to turn imo.im into what you see today - an instant messaging platform with more than 700,000 daily unique users who send more than 50 million messages per day. The mobile apps have had more than 5 million mobile downloads and 7 million unique users - and we’re not slowing down any time soon.
 
@@ -162,12 +177,16 @@ We’re really excited to sponsor this hackathon, and can’t wait to see what y
 
 <br>
 
-F&F Marketing
+<a href="http://ffmarketingnu.wordpress.com"><img src="/assets/themes/twitter-2.0/img/fandf_logo.jpg" style="height:100px;display:block;clear:none; margin:5px;" /></a>
 
-CATS
+<br>
 
-Northwestern University
+<a href="http://nucats.org"><img src="/assets/themes/twitter-2.0/img/cats_logo.jpg" style="height:100px;display:block;clear:none;margin:5px;" /></a>
 
-EECS DEPARTMENT
+<br>
 
-McCormick School of Engineering
+<a href="http://northwestern.edu"><img src="/assets/themes/twitter-2.0/img/NU_Logo_purple.png" style="height:100px;display:block;clear:none;margin:5px;" /></a>
+
+<br>
+
+<a href="http://mccormick.northwestern.edu"><img src="/assets/themes/twitter-2.0/img/mccormick_logo.png" style="height:70px;display:block;clear:none;margin:5px;" /></a>
