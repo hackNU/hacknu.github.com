@@ -177,6 +177,21 @@ We encourage you to [try imo on the Web](https://imo.im), and on your mobile dev
 
 <br>
 
+<br>
+
+<div class="span8" style="heigh:80px;">
+  <div class="tw-btn" style="width:250px;float:left;">
+    <a href="https://twitter.com/hack_NU" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @hack_nu</a>
+  </div>
+  <div class="fb-btn"  style="heigh:60px;width:250px;float:left">
+  <div class="fb-like" data-href="https://www.facebook.com/HackNorthwestern" data-send="true" data-layout="button_count" data-width="200" data-show-faces="false">
+  </div>
+  </div>
+</div>
+
+<br>
+<br>
+
 Hack Northwestern is a student initiative built from the ground up to foster student creativity, entrepreneurship and hacker spirit! We are part of the student group, [CATS](http://nucats.org), and are officially recognized by Northwestern’s McCormick School of Engineering.
 
 ---
