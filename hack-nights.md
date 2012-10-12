@@ -18,3 +18,35 @@ TL;DR Awesome people working on awesome stuff!
 
 - [Hack Night FQ2012-2](https://www.facebook.com/events/101669393326511/?)
 - [Hack Night FQ2012-1](https://www.facebook.com/events/278666062251087/)
+- [Hack Night SQ2012-4](https://www.facebook.com/events/302540666494941/)
+- [Hack Night SQ2012-3](https://www.facebook.com/events/380422585336592/)
+
+## Some Photos From Our First Hack Nights
+
+<ul class="thumbnails">
+  <li class="span4">
+    <a href="/assets/themes/twitter-2.0/img/hack-nights/hn1_3.jpg" class="thumbnail">
+      <img src="/assets/themes/twitter-2.0/img/hack-nights/hn1_3.jpg" alt="">
+    </a>
+  </li>
+  <li class="span4">
+    <a href="/assets/themes/twitter-2.0/img/hack-nights/hn2.jpg" class="thumbnail">
+      <img src="/assets/themes/twitter-2.0/img/hack-nights/hn2.jpg" alt="">
+    </a>
+  </li>
+  <li class="span4">
+    <a href="/assets/themes/twitter-2.0/img/hack-nights/hn2_2.jpg" class="thumbnail">
+      <img src="/assets/themes/twitter-2.0/img/hack-nights/hn2_2.jpg" alt="">
+    </a>
+  </li>
+    <li class="span4">
+    <a href="/assets/themes/twitter-2.0/img/hack-nights/hn1.jpg" class="thumbnail">
+      <img src="/assets/themes/twitter-2.0/img/hack-nights/hn1.jpg" alt="">
+    </a>
+  </li>
+</ul>
+
+---
+
+<p><a class="btn btn-primary btn-large" href="http://facebook.com/HackNorthwestern">When is the next one?</a></p>
+
