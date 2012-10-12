@@ -17,8 +17,8 @@ archive: false
 
 ---
 
-### [Hack Night](http://facebook.com/HackNorthwestern)
+### Hack Night
 
-**Oct 17, 2012 | 7:30PM | Tech M345**
+**TBD**
 
 
