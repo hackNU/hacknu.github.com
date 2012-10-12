@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: imo-hackathon
 title: "imo Hackathon"
 header: "imo Hackathon"
 group: navigation

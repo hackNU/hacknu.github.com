@@ -1,6 +1,6 @@
 ---
 layout: index
-title: HackNorthwestern
+title: Hack Northwestern
 tagline: fostering student creativity, entrepreneurship, and hacker spirit
 comments: false
 tags: false

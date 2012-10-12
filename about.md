@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: 2col
 title: About
 group: navigation
 comments: false

@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: 2col
 title: "Hack Nights"
 header: "Hack Nights"
 group: navigation
