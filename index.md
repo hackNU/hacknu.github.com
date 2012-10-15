@@ -19,7 +19,7 @@ archive: false
 
 ### [Tech Talk: How Tech, Art & Design Create Great Startups](https://www.facebook.com/events/198643846936930/)
 
-- **Wednesday, Oct 17, 2012 | 7:30pm | Tech LR5**
+**Wednesday, Oct 17, 2012 | 7:30pm | Tech LR5**
 
 - **There will be free pizza, tshirts, and lots of cool swag at this event.**
 
