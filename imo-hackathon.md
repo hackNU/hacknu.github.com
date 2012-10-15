@@ -33,7 +33,7 @@ imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored
 
 We want this hackathon to be fun while allowing students to show off their skills - and get rewarded for their talents.
 
-Coders will have have 22 hours to build an app for the chance to win big prizes and get a leg up in imo’s recruiting process. And of course, it wouldn't be an event without free food and swag.
+Coders will have 22 hours to build an app for the chance to win big prizes and get a leg up in imo’s recruiting process. And of course, it wouldn't be an event without free food and swag.
 
 This is Hack NU’s first hackathon and yet another one in Northwestern’s tradition of excellent hackathons, and we’re excited to have you show your innovation and creativity in a real-world situation with tangible, real-world results.
 
