@@ -217,7 +217,7 @@ Hack Northwestern is a student initiative built from the ground up to foster stu
 <br>
 <br>
 
-When brothers Ralph and Georges Harik began using what would come to be known as [imo.im](http://imo.im), they had one goal - to make it easier to keep in touch with each other and their transcontinental family. They quickly realized how important communication is in our day-to-day activities, and decided to turn imo.im into what you see today - an instant messaging platform with more than 700,000 daily unique users who send more than 50 million messages per day. The mobile apps have had more than 5 million mobile downloads and 7 million unique users - and we’re not slowing down any time soon.
+When brothers Ralph and [Georges Harik](http://www.googleventures.com/team/georges-harik) began using what would come to be known as [imo.im](http://imo.im), they had one goal - to make it easier to keep in touch with each other and their transcontinental family. They quickly realized how important communication is in our day-to-day activities, and decided to turn imo.im into what you see today - an instant messaging platform with more than 700,000 daily unique users who send more than 50 million messages per day. The mobile apps have had more than 5 million mobile downloads and 7 million unique users - and we’re not slowing down any time soon.
 
 Based in Silicon Valley, imo.im is a fast-growing start-up founded by one of the first 10 employees at Google. We’re building products that help millions of people around the world connect with their friends and make new ones.
 
