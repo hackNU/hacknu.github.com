@@ -26,7 +26,7 @@ comments: true
 
 <br>
 
-<a href="http://imo.im"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:right; margin: 5px;" /></a>
+<a href="#about_the_sponsor"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:right; margin: 5px;" /></a>
 
 
 imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by [imo.im](http://imo.im), a quickly growing Silicon Valley start-up co-founded by one of the first 10 employees at Google. The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
