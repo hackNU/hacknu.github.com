@@ -16,6 +16,7 @@ TL;DR Awesome people working on awesome stuff!
 
 ## Some Past Hack Nights
 
+- [Hack Night / Tech Talk: How Tech, Art & Design Create Great Startups](https://www.facebook.com/events/198643846936930/)
 - [Hack Night FQ2012-2](https://www.facebook.com/events/101669393326511/?)
 - [Hack Night FQ2012-1](https://www.facebook.com/events/278666062251087/)
 - [Hack Night SQ2012-4](https://www.facebook.com/events/302540666494941/)
@@ -49,4 +50,6 @@ TL;DR Awesome people working on awesome stuff!
 ---
 
 <p><a class="btn btn-primary btn-large" href="http://facebook.com/HackNorthwestern">When is the next one?</a></p>
+
+
 
