@@ -29,7 +29,7 @@ comments: true
 <a href="#about_the_sponsor"><img src="/assets/themes/twitter-2.0/img/imo_logo.png" style="display:block; float:right; margin: 5px;" /></a>
 
 
-imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by [imo.im](http://imo.im), a quickly growing Silicon Valley start-up co-founded by one of the first 10 employees at Google. The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
+imo Hackathon@Northwestern is an event hosted by Hack Northwestern and sponsored by [imo.im](http://imo.im), a quickly growing Silicon Valley start-up co-founded by [one of the first 10 employees at Google](http://www.googleventures.com/team/georges-harik). The hackathon is designed for students in the Chicago-land area to build collaborative apps that can be discoverable by imo’s millions of users.
 
 We want this hackathon to be fun while allowing students to show off their skills - and get rewarded for their talents.
 
@@ -73,15 +73,15 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 - 4:15 p.m.: Doors open
 - 4:45 p.m.: Introductions
 - 5:00 p.m.: Let the hacking begin!
-- 7:00 p.m.: Dinner
+- 6:30 p.m.: Chipotle
 - 9:00 p.m.: 1st Raffle
-- 12 a.m.: Late night snack
+- 11:30 p.m.: pizza
 
 
 ### Saturday
 
-- 8:00 a.m.: Bagels and coffee
-- 11:30 a.m.: Lunch
+- 8:00 a.m.: [Babycakes breakfast](https://www.facebook.com/babycakestruck)
+- 12:00 p.m.: Potbelly's
 - 1:30 p.m.: 2nd Raffle
 - 3:00 p.m.: Submit code
 - 3:15 p.m.: Demos start (up to 3 minutes per team)

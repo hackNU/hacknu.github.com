@@ -17,9 +17,9 @@ archive: false
 
 ---
 
-### [Hack Night FQ2012-4](https://www.facebook.com/events/328650520566063/)
+### [Hack Night FQ2012-5](https://www.facebook.com/events/165856520221722/)
 
-**October 24, 2012 | 7:30PM | Tech M345**
+**October 30, 2012 | 7:30PM | Tech M345**
 
 - We'll discuss the imo API and throw around ideas as prep for the hackathon!
 
