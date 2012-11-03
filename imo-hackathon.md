@@ -82,7 +82,6 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 
 - 8:00 a.m.: [Babycakes breakfast](https://www.facebook.com/babycakestruck)
 - 12:00 p.m.: Potbelly's
-- 1:30 p.m.: 2nd Raffle
 - 3:00 p.m.: Submit code
 - 3:15 p.m.: Demos start (up to 3 minutes per team)
 - 5:00 p.m.: Winners announced; Hackathon ends
