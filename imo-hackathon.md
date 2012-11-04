@@ -74,8 +74,7 @@ Thanks to our sponsors at imo.im for providing our winners with these prizes!
 - 4:45 p.m.: Introductions
 - 5:00 p.m.: Let the hacking begin!
 - 6:30 p.m.: Chipotle
-- 9:00 p.m.: 1st Raffle
-- 11:30 p.m.: pizza
+- 11:30 p.m.: Pizza
 
 
 ### Saturday
