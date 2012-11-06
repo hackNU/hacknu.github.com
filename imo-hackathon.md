@@ -115,6 +115,17 @@ Projects will be judged on creativity and execution, the latter of which will ha
 Nikola recently graduated with a BS from Northwestern University in Computer Science, and has liked programming since middle school. He is from Sofia, Bulgaria, and likes to watch Formula 1, WRC and other motor sports. Nikola also enjoys playing volleyball, soccer, some computer games and card games. He likes participating in programming and other science and robotics competitions.
 
 
+
+## Derek Morris, '12, CTO walk.by
+
+<img alt="At a starbucks wishing he had coffee" src="http://i.imgur.com/6RExG.png" style="margin:10px;margin-left:0px;display:block;height:160px" />
+
+Derek recently graduated from Northwestern University with a BS in Computer Science. 
+Shortly after graduating, he cofounded [walk.by](http://www.walk.by) which was funded by [Lightbank](http://www.lightbank.com). 
+He enjoys hacking arduinos, Trader Joe's wine and racing cars. He'd love to talk to you about wearable computing and Chicago tech. 
+You can reach him [@derek\_j\_morris](http://twitter.com/derek_j_morris) or [derek@walk.by](mailto:derek@walk.by?Subject=Hello%20Derek).
+
+
 ---
 
 # Rules
