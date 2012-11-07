@@ -150,7 +150,7 @@ The point of this hackathon is to have fun while building new and cool collabora
 
 3. Once your account has been created, please [Edit your Public Profile](http://blog.imo.im/2012/08/feature-of-week-imo-network-public.html) and add your university email address in the “Email Domains” text field. You will receive an email asking you to verify your domain.
 
-<img src="/assets/themes/twitter-2.0/img/VerifyEmailDomain.png" alt="" style="display:block; margin: 10px; height: 300px;"/>
+<img src="http://i.imgur.com/jctc7.jpg" algt="" style="display:block; margin: 10px; height: 400px;"/>
 
 ## Guidelines
 
