@@ -16,6 +16,8 @@ TL;DR Awesome people working on awesome stuff!
 
 ## Some Past Hack Nights
 
+- [Hack Night FQ2012-6](http://www.facebook.com/events/468027883240320/)
+- [Hack Night FQ2012-5](https://www.facebook.com/events/165856520221722/)
 - [Hack Night FQ2012-4](https://www.facebook.com/events/328650520566063/)
 - [Hack Night / Tech Talk: How Tech, Art & Design Create Great Startups](https://www.facebook.com/events/198643846936930/)
 - [Hack Night FQ2012-2](https://www.facebook.com/events/101669393326511/?)
