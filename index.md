@@ -14,5 +14,3 @@ archive: false
 ### [imo Hackathon](/imo-hackathon.html)
 
 **November 9, 2012 | 5:00PM | Northwestern University**
-
----
