@@ -47,6 +47,42 @@ Please email [hackathon@imo.im](mailto:hackathon@imo.im) with any questions.
 
 ---
 
+# How to Get There
+
+<p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
+
+## Public Transport
+
+1. Take the "L" Purple Line to Noyes
+2. Head east on Noyes
+3. You'll reach the Technological Institute (Tech)
+4. In front of the steps of Tech you'll find flyers on the floor directing you to the hackathon, they will lead you down a road on the side of Tech
+5. Arrive, check in, and meet people!
+
+## Driving
+
+The address for Tech is:
+<br/>**2145 Sheridan Road**
+<br/>**Evanston, IL 60208-3100**<br/>
+The parking lot across from Tech should be free for the public over the weekend.
+Follow the flyers in front of Tech, they will lead you down a road on the side of Tech.
+
+---
+
+# Facilities
+
+Our main base of operations will be in the Pancoe Auditorium. Unfortunately there aren't ethernet ports there. You'll be able to work in other locations as well, we'll talk about these locations at the event.
+
+You will have wifi access either via the guest network or via our private network. We'll provide you with the wifi credentials for the private network. We won't be able to provide ethernet cables.
+
+---
+
+# Lost? Need Help?
+
+Contact Wesley at 707 485 4787
+
+---
+
 # Prizes
 
 <p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
