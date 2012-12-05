@@ -11,6 +11,6 @@ archive: false
 
 ---
 
-### [Hack Night FQ2012-7](http://www.facebook.com/events/339971309433804/)
+### [Hack Night FQ2012-8](http://www.facebook.com/events/442430839150389/)
 
-**November 9, 2012 | 5:00PM | Northwestern University**
+**December 5, 2012 | 5:00PM | Northwestern University**
