@@ -77,12 +77,6 @@ You will have wifi access either via the guest network or via our private networ
 
 ---
 
-# Lost? Need Help?
-
-Contact Wesley at 707 485 4787
-
----
-
 # Prizes
 
 <p style="color:#bbb;text-align:right;"><a href="#about_the_hackathon" style="color:inherit;">back to the top</a></p>
