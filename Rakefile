@@ -46,6 +46,8 @@ task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  link = ENV["link"]
+  category = ENV["category"]
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
   rescue Exception => e
@@ -61,10 +63,11 @@ task :post do
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "title: \"#{title}\""
     post.puts 'description: ""'
-    post.puts "category: "
+    post.puts "category: #{category}"
     post.puts "tags: []"
+    post.puts "link: #{link}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
