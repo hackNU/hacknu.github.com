@@ -11,5 +11,5 @@ archive: false
 
 ---
  
-{% for item in site.categories.hack-night %}{% if item.date >= site.time %}
+{% for item in site.categories.hack-night %}{% if item.date > site.time %}
 - [{{ item.title }}]({{ item.link }}){% endif %}{% endfor %}

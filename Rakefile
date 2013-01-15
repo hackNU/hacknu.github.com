@@ -54,7 +54,15 @@ task :post do
     puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
     exit -1
   end
-  filename = File.join(CONFIG['posts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  filename = case ENV["category"] 
+  when "hack-night"
+    File.join(CONFIG['posts'] + "/hack-nights", "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  when "hackathon"
+    File.join(CONFIG['posts'] + "/hackathons", "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  else
+    File.join(CONFIG['posts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
+  end
+
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
@@ -68,6 +76,7 @@ task :post do
     post.puts "category: #{category}"
     post.puts "tags: []"
     post.puts "link: #{link}"
+    post.puts "date: #{date} 23:59:59"
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
