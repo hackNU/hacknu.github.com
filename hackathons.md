@@ -12,5 +12,9 @@ Hackathons are events where participants have a short time period, usually a day
 
 ## Past hackathons
 
+- [imo Hackathon@Northwestern](/imo-hackathon.html)
+
+<!--
 {% for item in site.categories.hackathon %}
 - [{{ item.title }}]({{ item.url }}){% endfor %}
+-->
