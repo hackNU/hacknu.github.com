@@ -2,7 +2,6 @@
 layout: imo-hackathon
 title: "imo Hackathon@Northwestern"
 header: "imo Hackathon"
-group: navigation
 comments: true
 ---
 
