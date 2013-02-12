@@ -41,3 +41,7 @@ In addition, the following companies have sponsored individual events ranging fr
     </a>
   </li>
 </ul>
+
+---
+
+If you'd like to sponsor an event, contact us via our [facebook](http://www.facebook.com/HackNorthwestern) page.
