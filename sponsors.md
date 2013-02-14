@@ -15,16 +15,16 @@ HackNorthwestern is fortunate to have Enova's continued support.
       <img src="/assets/images/Enova_logo.PNG">
     </a>
   </li>
+  <li class="span3">
+    <a href="http://google.com" class="thumbnail">
+      <img src="/assets/images/Googlelogo.png" alt="">
+    </a>
+  </li>
 </ul>
 <br/>
 In addition, the following companies have sponsored individual events ranging from hack nights, interviewing workshops, hackathons, and tech talks.
 
 <ul class="thumbnails">
-	<li class="span1">
-    <a href="http://googe.com" class="thumbnail">
-      <img src="/assets/images/Googlelogo.png" alt="">
-    </a>
-  </li>
 	<li class="span1">
     <a href="http://microsoft.com" class="thumbnail">
       <img src="/assets/images/msft_logo.jpg" alt="">
