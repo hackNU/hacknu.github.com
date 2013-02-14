@@ -15,8 +15,8 @@ HackNorthwestern is fortunate to have Enova's continued support.
       <img src="/assets/images/Enova_logo.PNG">
     </a>
   </li>
-  <li class="span3">
-    <a href="http://google.com" class="thumbnail">
+  <li class="span2">
+    <a href="http://www.google.com/about/jobs/" class="thumbnail">
       <img src="/assets/images/Googlelogo.png" alt="">
     </a>
   </li>
