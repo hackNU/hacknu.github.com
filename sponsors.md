@@ -7,7 +7,7 @@ comments: false
 ---
 {% include JB/setup %}
 
-HackNorthwestern is fortunate to have Enova's continued support.
+HackNorthwestern is fortunate to have Enova and Google's continued support.
 
 <ul class="thumbnails">
   <li class="span3">

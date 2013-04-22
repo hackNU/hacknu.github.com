@@ -10,6 +10,5 @@ archive: false
 ## Upcoming Events
 
 ---
- 
-{% for item in site.categories.hack-night %}{% if item.date > site.time %}
-- [{{ item.title }}]({{ item.link }}){% endif %}{% endfor %}
+
+There's bound to be a hack night! Check out our Facebook page for info on the latest one.

@@ -14,10 +14,7 @@ HackNorthwestern hosts weekly hack nights, where you'll find people working on t
 
 TL;DR Awesome people working on awesome stuff!
 
-## Some Past Hack Nights
-
-{% for item in site.categories.hack-night %}
-- [{{ item.title }}]({{ item.link }}){% endfor %}
+<p><a class="btn btn-primary btn-large" href="http://facebook.com/HackNorthwestern">When is the next one?</a></p>
 
 ## Some Photos From Our First Hack Nights
 
@@ -43,7 +40,3 @@ TL;DR Awesome people working on awesome stuff!
     </a>
   </li>
 </ul>
-
----
-
-<p><a class="btn btn-primary btn-large" href="http://facebook.com/HackNorthwestern">When is the next one?</a></p>
