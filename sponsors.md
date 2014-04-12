@@ -7,17 +7,12 @@ comments: false
 ---
 {% include JB/setup %}
 
-HackNorthwestern is fortunate to have Enova and Google's continued support.
+HackNorthwestern is fortunate to have Shmoop's continued support.
 
 <ul class="thumbnails">
   <li class="span3">
-    <a href="http://www.enova.com/careers!" class="thumbnail">
-      <img src="/assets/images/Enova_logo.PNG">
-    </a>
-  </li>
-  <li class="span2">
-    <a href="http://www.google.com/about/jobs/" class="thumbnail">
-      <img src="/assets/images/Googlelogo.png" alt="">
+    <a href="http://www.shmoop.com/public/jobs/" class="thumbnail">
+      <img src="/assets/images/shmoop_logo.png">
     </a>
   </li>
 </ul>
@@ -38,6 +33,11 @@ In addition, the following companies have sponsored individual events ranging fr
   <li class="span1">
     <a href="http://seelio.com" class="thumbnail">
       <img src="/assets/images/seelio_logo.jpg" alt="">
+    </a>
+  </li>
+  <li class="span1">
+    <a href="http://www.google.com/about/jobs/" class="thumbnail">
+      <img src="/assets/images/Googlelogo.png" alt="">
     </a>
   </li>
 </ul>
